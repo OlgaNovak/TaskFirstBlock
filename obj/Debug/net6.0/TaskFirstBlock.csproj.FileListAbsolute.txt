@@ -1,0 +1,15 @@
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\bin\Debug\net6.0\TaskFirstBlock.exe
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\bin\Debug\net6.0\TaskFirstBlock.deps.json
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\bin\Debug\net6.0\TaskFirstBlock.runtimeconfig.json
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\bin\Debug\net6.0\TaskFirstBlock.dll
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\bin\Debug\net6.0\TaskFirstBlock.pdb
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\obj\Debug\net6.0\TaskFirstBlock.csproj.AssemblyReference.cache
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\obj\Debug\net6.0\TaskFirstBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\obj\Debug\net6.0\TaskFirstBlock.AssemblyInfoInputs.cache
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\obj\Debug\net6.0\TaskFirstBlock.AssemblyInfo.cs
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\obj\Debug\net6.0\TaskFirstBlock.csproj.CoreCompileInputs.cache
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\obj\Debug\net6.0\TaskFirstBlock.dll
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\obj\Debug\net6.0\refint\TaskFirstBlock.dll
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\obj\Debug\net6.0\TaskFirstBlock.pdb
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\obj\Debug\net6.0\TaskFirstBlock.genruntimeconfig.cache
+C:\Users\olgam\OneDrive\Desktop\Обучение gb, разработка\newsolution\TaskFirstBlock\obj\Debug\net6.0\ref\TaskFirstBlock.dll
